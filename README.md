@@ -2,7 +2,7 @@
 
 ⚡ About Me
 
-My name is Nick, a Full-Stack developer.
+My name is Nick, I'm a Full-Stack developer.
 
 ## 🛠️ Skills
 
